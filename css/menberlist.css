@@ -1,0 +1,18 @@
+fieldset{
+    width: 22vw;
+    font-weight: bold;
+    width: 22vw;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.top_area {
+    width: 22vw;
+    text-align: center;
+}
+
+.logindata {
+    width: 22vw;
+    text-align: center;
+}
